@@ -1,0 +1,6 @@
+{
+  "name": "MediSignal MVP | Pharmacy Shortage Early-Warning & Decision System",
+  "description": "Deterministic and probabilistic pharmacy shortage early-warning, stock-risk forecasting, and clinician-governed triage decision system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
